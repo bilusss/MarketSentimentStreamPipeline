@@ -1,1 +1,1 @@
-# MarketSentimentStreamPipeline
+# 📰 Market Sentiment Stream Pipeline
