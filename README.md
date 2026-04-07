@@ -56,7 +56,7 @@ crypto-sentiment-pipeline/
 ## 🚀 Project Roadmap
 
 ### 🟢 FOUNDATION
-- [ ] Logger setup (`core/logging_config.py`)
+- [ ] Logger setup (`core/logger.py`)
 - [ ] Database schema design (`database/schema.sql`)
 - [ ] Docker-compose orchestration (`docker-compose.yml`)
 - [ ] Environment configuration (`.env`, `.env.example`)
